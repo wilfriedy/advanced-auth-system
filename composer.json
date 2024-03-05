@@ -1,0 +1,16 @@
+{
+    "name": "willy/auth",
+    "description": "an authentication based app with php best practices",
+    "autoload": {
+        "psr-4": {
+            "Willy\\Auth\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "wilfriedy",
+            "email": "wilfriedakpe3@gmail.com"
+        }
+    ],
+    "require": {}
+}
